@@ -38,7 +38,7 @@
   
 <a id="Scheme"></a>
 ## Схема подключения
-![IMG](docs/Схема \общая.png)
+![IMG](docs/Схема_общая.png)
 
 <a id="FAQ"></a>
 ## FAQ
