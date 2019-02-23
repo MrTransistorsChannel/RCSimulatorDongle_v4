@@ -1,4 +1,4 @@
-# RCSimulatorDongle_V3
+# RCSimulatorDongle_v4
 ![IMG](docs/Лого.jpg)
 
 # Оглавление
@@ -23,17 +23,16 @@
 <a id="Folders_description"></a>
 ## Описание папок в репозитории
   - **FlySkyIBus_modifiedByMrTransistor** - требуемая для компиляции прошивки библиотека - закинуть в C://Program Files/Arduino/libraries
-  - **RCSimulatorDongle_V3** - код прошивки
+  - **RCSimulatorDongle_v4** - код прошивки
   - **docs** - картинки
   - **PPJoy32** - 32-битный виртуальный джойстик
   - **PPJoy64**- 64-битный виртуальный джойстик
   - **libraries** - содержимое скопировать в Документы/Arduino/libraries (библиотеки)
-  - **Остальное - файл, который вы сейчас читаете и картинка из его начала**
 
 <a id="Components"></a>
 ## Материалы и компоненты
   - [Arduino NANO](http://ali.pub/20o36t)
-  - Приемник аппаратуры Flysky - **[FS-iA6B!!!](http://ali.pub/1exhys)**
+  - Ваша аппаратура радиоуправления с PPM или IBus выходом
   - Провода для Ардуино или 3-проводной шлейф - можно поискать на Алиэкспрессе
   
 <a id="Scheme"></a>
